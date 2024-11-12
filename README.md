@@ -1,4 +1,4 @@
-# Proyek Cuaca dari API
+# Display Cuaca dari API
 
 Ini adalah program untuk mengambil data cuaca dari API kemudian menampilkan pada LCD 128x64 dengan ESP8266.
 
