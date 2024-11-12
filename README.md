@@ -2,7 +2,7 @@
 
 Ini adalah program untuk mengambil data cuaca dari API kemudian menampilkan pada LCD 128x64 dengan ESP8266.
 
-## Screenshot
+## Hasil LCD
 
 ![tampilan](image_lcd.jpeg)
 
@@ -22,5 +22,5 @@ PIN yang digunakan pada esp 8266 dan LCD12864
 *RS-D6
 *VCC-5V
 *GND-GND
-
+## Pin yang digunakan
 ![tampilan pin ](gambarrangkaian.jpeg)
